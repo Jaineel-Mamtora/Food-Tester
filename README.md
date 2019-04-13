@@ -1,4 +1,4 @@
-# first_app
+# Food Tester
 
 A new Flutter project.
 
